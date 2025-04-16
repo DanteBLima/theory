@@ -6,7 +6,7 @@
 
 ## 🌀 Sprint
 
-As sprints são eventos, geralmente de curta duração como uma/duas semanas, em que se é definido uma meta para ser comprida em relação ao produto, como a implementação de uma funcionalidade do projeto. As sprints ajudam a garantir que o projeto não fique estagnado e que o escopo e as metas do projeto estão claras e fazem sentido.
+As sprints são eventos, geralmente de curta duração como uma/duas semanas, em que se é definido uma meta para ser cumprida em relação ao produto, como a implementação de uma funcionalidade do projeto. As sprints ajudam a garantir que o projeto não fique estagnado e que o escopo e as metas do projeto estão claras e fazem sentido.
 
 ---
 
